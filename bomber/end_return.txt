@@ -1,0 +1,6 @@
+http://b.bitso.com
+http://b.bitso.com
+http://api.bitso.com
+http://dev.bitso.com
+http://edu.bitso.com
+http://efx.bitso.com

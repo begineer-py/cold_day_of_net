@@ -1,0 +1,1 @@
+/home/yangjiahao/Desktop/Nazi/vulnerability_scanning/common_bug/xss_scanner.py
