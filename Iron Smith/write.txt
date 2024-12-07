@@ -1,0 +1,14 @@
+import os
+import sys
+import subprocess
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# 文件讀寫函數
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        return file.read()
+
+def write_file(file_path, content):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.write(content)

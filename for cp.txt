@@ -1,0 +1,9 @@
+你在執行 cp 命令時遇到了錯誤，因為目標目錄的路徑格式錯誤。cp 命令需要兩個參數：源檔案/目錄和目標位置。你的命令中，/mnt/shared/ 被放置在了源目錄的位置，這樣會導致錯誤。
+
+正確命令格式：
+假設你想從 /home/yangjiahao/Desktop/Nazi/vulnerability_scanning/DDOS_DAY/dist/ 複製檔案或目錄到 /mnt/shared/，你應該執行以下命令：
+
+bash
+複製程式碼
+cp -r /home/yangjiahao/Desktop/Nazi/vulnerability_scanning/DDOS_DAY/dist/SYN_DDOS /mnt/shared/
+解釋：

@@ -1,0 +1,3 @@
+https://dda4-2001-b400-e242-ecd2-c5c9-299d-1985-ec26.ngrok-free.app/ (POST)  # /usr/bin/sqlmap -u https://dda4-2001-b400-e242-ecd2-c5c9-299d-1985-ec26.ngrok-free.app/ --batch --output-dir /home/yangjiahao/Desktop/Nazi/reporting/../../reporting --level 1 --risk 1 --dbs --forms
+
+cake_type=%E5%8E%9F%E5%91%B3&quantity=1&phone_number=HOvg&address=aJpw
