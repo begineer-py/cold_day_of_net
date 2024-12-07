@@ -1,0 +1,444 @@
+2024-10-25 22:11:24,656 - ERROR - 连接网络时出错: Invalid URL 'open.spotify.com': No scheme supplied. Perhaps you meant https://open.spotify.com?
+2024-10-25 22:13:25,207 - INFO - 成功连接到 https://open.spotify.com
+2024-10-25 22:13:25,220 - INFO - 结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/results.csv
+2024-10-25 22:25:39,410 - INFO - 成功连接到 https://open.spotify.com
+2024-10-25 22:25:39,424 - INFO - 结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/results.csv
+2024-10-25 22:25:47,037 - INFO - 成功连接到 https://open.spotify.com
+2024-10-25 22:25:47,048 - INFO - 结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/results.csv
+2024-10-25 22:27:39,018 - INFO - 成功连接到 https://open.spotify.com
+2024-10-26 17:33:12,164 - INFO - 成功连接到 https://open.spotify.com/
+2024-10-26 17:33:12,179 - INFO - 深度 0 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_0_results.csv
+2024-10-26 17:33:12,736 - INFO - 成功连接到 https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql
+2024-10-26 17:33:12,747 - INFO - 深度 1 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_1_results.csv
+2024-10-26 17:33:13,159 - INFO - 成功连接到 https://open.spotify.com/album/67nUsanK9Kvv1Hjv6eieLo
+2024-10-26 17:33:13,166 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:13,674 - INFO - 成功连接到 https://open.spotify.com/track/3wYRPcCRofEPtkPahyRhaD
+2024-10-26 17:33:13,681 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:14,129 - INFO - 成功连接到 https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek
+2024-10-26 17:33:14,142 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:15,028 - INFO - 成功连接到 https://open.spotify.com/track/5rzlpdJ1LDX5VcARtsPKC8
+2024-10-26 17:33:15,037 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:15,537 - INFO - 成功连接到 https://open.spotify.com/track/4Eqk5I5T2VZ9WpXKPEBFFi
+2024-10-26 17:33:15,550 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:16,085 - INFO - 成功连接到 https://open.spotify.com/track/51AAxvmRXUQwHJbv28a70Q
+2024-10-26 17:33:16,101 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:16,688 - INFO - 成功连接到 https://open.spotify.com/track/0TYICIFwb6p1xY4WdDdmPF
+2024-10-26 17:33:16,702 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:17,435 - INFO - 成功连接到 https://open.spotify.com/track/1Zl66sxaFS3Ka47usAadse
+2024-10-26 17:33:17,445 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:17,956 - INFO - 成功连接到 https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu
+2024-10-26 17:33:17,970 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:18,593 - INFO - 成功连接到 https://open.spotify.com/track/63uG9IVzPNLuNOCVhW1IGm
+2024-10-26 17:33:18,606 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:19,111 - INFO - 成功连接到 https://open.spotify.com/track/721tHF9ARnG3uWbXuh1v0z
+2024-10-26 17:33:19,123 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:19,669 - INFO - 成功连接到 https://open.spotify.com/track/1YVux6eEYOi02dpnbFfp9T
+2024-10-26 17:33:19,692 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:20,223 - INFO - 成功连接到 https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY
+2024-10-26 17:33:20,236 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:21,033 - INFO - 成功连接到 https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW
+2024-10-26 17:33:21,046 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:21,603 - INFO - 成功连接到 https://open.spotify.com/track/5zBkid4EQE3cGS4VdaiPAk
+2024-10-26 17:33:21,625 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:22,040 - INFO - 成功连接到 https://open.spotify.com/track/3aEb2jEXEBn3HiLLPkj3TP
+2024-10-26 17:33:22,063 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:22,490 - INFO - 成功连接到 https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc
+2024-10-26 17:33:22,498 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:23,000 - INFO - 成功连接到 https://open.spotify.com/track/2x4sO9fHvXblvsyiHcnjE3
+2024-10-26 17:33:23,013 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:23,478 - INFO - 成功连接到 https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT
+2024-10-26 17:33:23,492 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:24,029 - INFO - 成功连接到 https://open.spotify.com/track/1rDaBTdLyld8Bi0rDrJy33
+2024-10-26 17:33:24,038 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:24,606 - INFO - 成功连接到 https://open.spotify.com/track/34CB1WKQlbKF0N4ZR1xTqy
+2024-10-26 17:33:24,622 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:25,129 - INFO - 成功连接到 https://open.spotify.com/track/03XTFN7Rx3yzlgAcZpbUsL
+2024-10-26 17:33:25,146 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:25,700 - INFO - 成功连接到 https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04
+2024-10-26 17:33:25,711 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:26,575 - INFO - 成功连接到 https://open.spotify.com/track/2OfI4WV2gub5WLJMzCr1Es
+2024-10-26 17:33:26,594 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:27,053 - INFO - 成功连接到 https://open.spotify.com/track/5SkB7JGioi0IeN1kc1sI8q
+2024-10-26 17:33:27,065 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:27,549 - INFO - 成功连接到 https://open.spotify.com/track/7JvlfUCY5Qn1NN3D4WGBZ3
+2024-10-26 17:33:27,559 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:28,095 - INFO - 成功连接到 https://open.spotify.com/track/6OQQjrfT6AqGD1HDEDBmJw
+2024-10-26 17:33:28,106 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:28,621 - INFO - 成功连接到 https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B
+2024-10-26 17:33:28,626 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:29,130 - INFO - 成功连接到 https://open.spotify.com/track/5lh10L81mBNuDtVoxXlcY0
+2024-10-26 17:33:29,146 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:29,621 - INFO - 成功连接到 https://open.spotify.com/track/3r2BH563UfH3ZnLxywSe27
+2024-10-26 17:33:29,634 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:30,510 - INFO - 成功连接到 https://open.spotify.com/track/0ATZVWuix4MxihrbCnZBfy
+2024-10-26 17:33:30,523 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:31,043 - INFO - 成功连接到 https://open.spotify.com/track/39tEWctWn3a4fmocz97cXg
+2024-10-26 17:33:31,058 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:31,604 - INFO - 成功连接到 https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb
+2024-10-26 17:33:31,614 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:32,230 - INFO - 成功连接到 https://open.spotify.com/track/3g0tcduauR8ju72zhXgCSz
+2024-10-26 17:33:32,244 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:32,835 - INFO - 成功连接到 https://open.spotify.com/track/0rqkH1SCZaoGhWo0GqrFCM
+2024-10-26 17:33:32,850 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:33,383 - INFO - 成功连接到 https://open.spotify.com/track/5Omnhld9Y9dDjb7tmyLPYQ
+2024-10-26 17:33:33,396 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:33,860 - INFO - 成功连接到 https://open.spotify.com/track/4wxyFIwiADGOR81d8pwcvj
+2024-10-26 17:33:33,880 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:34,450 - INFO - 成功连接到 https://open.spotify.com/track/4dYUjiYWcK8fHq1Gw3Vlx7
+2024-10-26 17:33:34,465 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:34,902 - INFO - 成功连接到 https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG
+2024-10-26 17:33:34,909 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:35,401 - INFO - 成功连接到 https://open.spotify.com/track/1iOBnWtpU48hivRYemWBAl
+2024-10-26 17:33:35,413 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:35,987 - INFO - 成功连接到 https://open.spotify.com/track/5FTCMO1JDiUuw8RJGnurd8
+2024-10-26 17:33:36,000 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:36,599 - INFO - 成功连接到 https://open.spotify.com/track/01BE3X67aMlekmWy5mvRc9
+2024-10-26 17:33:36,612 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:37,037 - INFO - 成功连接到 https://open.spotify.com/album/39PHyEjzFKafPr9EM7vQVk
+2024-10-26 17:33:37,044 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:38,163 - INFO - 成功连接到 https://open.spotify.com/track/4eIxdrVN54RZOJYkmyklUT
+2024-10-26 17:33:38,177 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:38,654 - INFO - 成功连接到 https://open.spotify.com/track/22ntA8kpzcD6n7T5DgBtbN
+2024-10-26 17:33:38,665 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:39,164 - INFO - 成功连接到 https://open.spotify.com/track/1UdVJoZGkYbJqUXPJnvfHB
+2024-10-26 17:33:39,189 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:39,771 - INFO - 成功连接到 https://open.spotify.com/track/4vYyZVb7E4NKcQtXKLXhF7
+2024-10-26 17:33:39,783 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:40,338 - INFO - 成功连接到 https://open.spotify.com/track/6FjEJqNXqBjha6dB2gcCET
+2024-10-26 17:33:40,348 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:40,872 - INFO - 成功连接到 https://open.spotify.com/track/3OTwChh542dHbrk9tmZtNw
+2024-10-26 17:33:40,881 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:41,460 - INFO - 成功连接到 https://open.spotify.com/track/4At3hIjHO9sYhLIHt4Auwn
+2024-10-26 17:33:41,467 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:41,924 - INFO - 成功连接到 https://open.spotify.com/track/57UX0TGA5Ke5erB4HNt7vi
+2024-10-26 17:33:41,933 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:42,414 - INFO - 成功连接到 https://open.spotify.com/track/2nXqOSt013yj2osIS7zFA4
+2024-10-26 17:33:42,424 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:42,900 - INFO - 成功连接到 https://open.spotify.com/track/40Rl33o2fuhIRVNtSdtMWn
+2024-10-26 17:33:42,909 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:43,359 - INFO - 成功连接到 https://open.spotify.com/album/2SrwWoOk7egNTcaJcb4tuO
+2024-10-26 17:33:43,364 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:44,168 - INFO - 成功连接到 https://open.spotify.com/track/6wEnSMMC3ZRw9pB233h5uz
+2024-10-26 17:33:44,187 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:44,635 - INFO - 成功连接到 https://open.spotify.com/track/3PM4u9Z8d3IMVsBlFPID2J
+2024-10-26 17:33:44,645 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:45,116 - INFO - 成功连接到 https://open.spotify.com/track/24bZFain2qqVXNVHITb2Id
+2024-10-26 17:33:45,136 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:46,104 - INFO - 成功连接到 https://open.spotify.com/track/7wnWwPBdLCjlPlxqDXJ44w
+2024-10-26 17:33:46,114 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:46,625 - INFO - 成功连接到 https://open.spotify.com/track/5OHWfWmCDNaMGnmvZUG2M7
+2024-10-26 17:33:46,633 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:47,113 - INFO - 成功连接到 https://open.spotify.com/track/6Cf5agUuljOk4nSYZCOtoQ
+2024-10-26 17:33:47,122 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:47,617 - INFO - 成功连接到 https://open.spotify.com/track/7t6PIFboQYFs5CbQ2FjwT8
+2024-10-26 17:33:47,628 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:48,148 - INFO - 成功连接到 https://open.spotify.com/track/1c2ZhQ0OacDVarec6Ag0P8
+2024-10-26 17:33:48,156 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:48,676 - INFO - 成功连接到 https://open.spotify.com/track/3dqAD6hu5HbcCAJRyLESMZ
+2024-10-26 17:33:48,685 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:49,166 - INFO - 成功连接到 https://open.spotify.com/track/5VK1sIDngjWMXBD6ZFtUci
+2024-10-26 17:33:49,174 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:49,732 - INFO - 成功连接到 https://open.spotify.com/track/2tvokfT77lp473228llliz
+2024-10-26 17:33:49,741 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:50,177 - INFO - 成功连接到 https://open.spotify.com/album/3mqG5FjCm7XuCx5IHN3ZSg
+2024-10-26 17:33:50,191 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:33:50,707 - INFO - 成功连接到 https://open.spotify.com/track/2EogKy61OYB66330svRVk3
+2024-10-26 17:33:50,717 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:51,158 - INFO - 成功连接到 https://open.spotify.com/track/1F8ZrzVPTvt1Pnamzok9kN
+2024-10-26 17:33:51,169 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:51,684 - INFO - 成功连接到 https://open.spotify.com/track/77qtnZdWjLJi7EKS4e20vp
+2024-10-26 17:33:51,696 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:52,826 - INFO - 成功连接到 https://open.spotify.com/track/0W946cjETuoA1wmMDhMbUH
+2024-10-26 17:33:52,843 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:53,404 - INFO - 成功连接到 https://open.spotify.com/track/7aDQygt3QxaBq0OdewTou8
+2024-10-26 17:33:53,415 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:53,951 - INFO - 成功连接到 https://open.spotify.com/track/1H0GGAy2ZMtDEjTa9C0Vc1
+2024-10-26 17:33:53,974 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:54,635 - INFO - 成功连接到 https://open.spotify.com/track/1MlTd0BrpF4Jj0lVqmQuM1
+2024-10-26 17:33:54,648 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:55,241 - INFO - 成功连接到 https://open.spotify.com/track/0Ez1Fz7I0uokJvewpjChJr
+2024-10-26 17:33:55,253 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:55,901 - INFO - 成功连接到 https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM
+2024-10-26 17:33:55,919 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:56,416 - INFO - 成功连接到 https://open.spotify.com/track/0csGuDUPct0J1v41yyekET
+2024-10-26 17:33:56,428 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:56,920 - INFO - 成功连接到 https://open.spotify.com/track/1FlnctM6i0HRoWoYp69JD3
+2024-10-26 17:33:56,932 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:57,843 - INFO - 成功连接到 https://open.spotify.com/track/3LcusZ3scnXw3Jtkmqfsej
+2024-10-26 17:33:57,855 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:58,724 - INFO - 成功连接到 https://open.spotify.com/track/4feofFbOmZnWmjgdhFGV8q
+2024-10-26 17:33:58,734 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:33:59,449 - INFO - 成功连接到 https://open.spotify.com/track/2a8tS3JEFkR4YYyzegIX4s
+2024-10-26 17:33:59,460 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:00,022 - INFO - 成功连接到 https://open.spotify.com/track/5rCvsETC0S7EuTTcDvl4l6
+2024-10-26 17:34:00,036 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:00,539 - INFO - 成功连接到 https://open.spotify.com/track/0C4TLpW9HNvKAVGUdq1KGJ
+2024-10-26 17:34:00,551 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:01,045 - INFO - 成功连接到 https://open.spotify.com/track/5prKT63fTI9SgboTHUY2SV
+2024-10-26 17:34:01,057 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:04,740 - INFO - 成功连接到 https://open.spotify.com/track/7Em3edzBoMg8ZZSqi9gkKm
+2024-10-26 17:34:04,750 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:05,310 - INFO - 成功连接到 https://open.spotify.com/track/4TjDplSwYEz5yQT04ua8fJ
+2024-10-26 17:34:05,325 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:05,896 - INFO - 成功连接到 https://open.spotify.com/track/5NBEyid322qtcJgdmZi5r7
+2024-10-26 17:34:05,908 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:06,412 - INFO - 成功连接到 https://open.spotify.com/track/6R2FfInuwvDzTJ6gxZeops
+2024-10-26 17:34:06,422 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:07,460 - INFO - 成功连接到 https://open.spotify.com/track/0u4kfKUcmClxUSLWZrGaqR
+2024-10-26 17:34:07,471 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:08,006 - INFO - 成功连接到 https://open.spotify.com/track/3IySZVzsPjLhFi0VD8zE1c
+2024-10-26 17:34:08,017 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:08,482 - INFO - 成功连接到 https://open.spotify.com/track/0KxDz5gO17zwoMzhVST0da
+2024-10-26 17:34:08,493 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:09,197 - INFO - 成功连接到 https://open.spotify.com/track/5B9ORbYxAY9IupamJX0uIk
+2024-10-26 17:34:09,207 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:09,763 - INFO - 成功连接到 https://open.spotify.com/track/3jHgU1pTuVZZg1gs3OvDjh
+2024-10-26 17:34:09,775 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:10,246 - INFO - 成功连接到 https://open.spotify.com/album/0ByfRfYXHHhGjsXEabfDmf
+2024-10-26 17:34:10,251 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:34:11,224 - INFO - 成功连接到 https://open.spotify.com/track/2WfBGIuDsE9yQTr8ERL13w
+2024-10-26 17:34:11,239 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:12,034 - INFO - 成功连接到 https://open.spotify.com/track/41zQa96B5Mnt5aZSAwcNfi
+2024-10-26 17:34:12,051 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:13,098 - INFO - 成功连接到 https://open.spotify.com/track/2JbWvf1QpAlaN5Q5yvALXQ
+2024-10-26 17:34:13,106 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:13,665 - INFO - 成功连接到 https://open.spotify.com/track/6O2i7KAq7eVZVgUDYfyTMP
+2024-10-26 17:34:13,677 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:14,465 - INFO - 成功连接到 https://open.spotify.com/track/0jaBOWFPk9YB0NGtnWllEy
+2024-10-26 17:34:14,474 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:15,466 - INFO - 成功连接到 https://open.spotify.com/track/3mf3pzDv9DCO0QDVh7bUL4
+2024-10-26 17:34:15,475 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:16,184 - INFO - 成功连接到 https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp
+2024-10-26 17:34:16,192 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:16,690 - INFO - 成功连接到 https://open.spotify.com/track/6MCx3aDrd6q9cd7Ec9Ajsy
+2024-10-26 17:34:16,721 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:17,624 - INFO - 成功连接到 https://open.spotify.com/track/4ICIjhyIi03aU3e4gIcSlP
+2024-10-26 17:34:17,632 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:18,204 - INFO - 成功连接到 https://open.spotify.com/track/0bigjxvQbMm7pL2iKV7MHE
+2024-10-26 17:34:18,226 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:18,713 - INFO - 成功连接到 https://open.spotify.com/track/4F7EjGMtD0RGRT4aeuLDXU
+2024-10-26 17:34:18,730 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:19,174 - INFO - 成功连接到 https://open.spotify.com/album/0AMaK4fzYnhvi4HTNVvKet
+2024-10-26 17:34:19,182 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:34:20,598 - INFO - 成功连接到 https://open.spotify.com/track/2IvRozBsYUthajYMuGl3U5
+2024-10-26 17:34:20,608 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:21,309 - INFO - 成功连接到 https://open.spotify.com/track/1EmB3zAgwfwFjpgI9p02wn
+2024-10-26 17:34:21,320 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:21,783 - INFO - 成功连接到 https://open.spotify.com/track/1ptDPgntV4DNU9CMmNGbS7
+2024-10-26 17:34:21,792 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:22,449 - INFO - 成功连接到 https://open.spotify.com/track/4XSoYwSFMW4CItwZr0dWPj
+2024-10-26 17:34:22,464 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:22,931 - INFO - 成功连接到 https://open.spotify.com/artist/6JrzZzfWOBgBIc9th6iMwq
+2024-10-26 17:34:22,937 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:23,548 - INFO - 成功连接到 https://open.spotify.com/track/1Zm4OYk56E1FQiFFusFQUJ
+2024-10-26 17:34:23,561 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:24,162 - INFO - 成功连接到 https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR
+2024-10-26 17:34:24,170 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:24,642 - INFO - 成功连接到 https://open.spotify.com/artist/0GguaR1OlBJjALVX17qds0
+2024-10-26 17:34:24,648 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:25,712 - INFO - 成功连接到 https://open.spotify.com/track/4mXa0EvXkXw85HRYEycqS0
+2024-10-26 17:34:25,727 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:26,664 - INFO - 成功连接到 https://open.spotify.com/track/21EjGlGhJWbegG077jObl8
+2024-10-26 17:34:26,675 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:27,611 - INFO - 成功连接到 https://open.spotify.com/track/7BuzjgMNK5xIWwpvjRa6n4
+2024-10-26 17:34:27,624 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:28,157 - INFO - 成功连接到 https://open.spotify.com/track/3iLER2T9j70bxwHeY0HYHd
+2024-10-26 17:34:28,167 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:28,689 - INFO - 成功连接到 https://open.spotify.com/track/5PkO5PhvpYY2WZhkC6K6yg
+2024-10-26 17:34:28,700 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:29,278 - INFO - 成功连接到 https://open.spotify.com/track/6acy10UrfiiPUTqCk4cyqf
+2024-10-26 17:34:29,287 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:29,951 - INFO - 成功连接到 https://open.spotify.com/track/2APIJneGl4cWsB39MnNi0d
+2024-10-26 17:34:29,960 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:30,902 - INFO - 成功连接到 https://open.spotify.com/track/5icAatoj1in2iIMqxD1qX6
+2024-10-26 17:34:30,912 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:31,431 - INFO - 成功连接到 https://open.spotify.com/track/6LSTS40d5MkG63VC4072Bo
+2024-10-26 17:34:31,443 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:32,004 - INFO - 成功连接到 https://open.spotify.com/track/7xGdELxDawVBnd5FvMHZkP
+2024-10-26 17:34:32,014 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:33,152 - INFO - 成功连接到 https://open.spotify.com/track/2MnW7yYjswrpQEVFwDRr9E
+2024-10-26 17:34:33,161 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:33,758 - INFO - 成功连接到 https://open.spotify.com/track/34ZHrAPo3nUJx4g0LCUqGI
+2024-10-26 17:34:33,776 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:34,396 - INFO - 成功连接到 https://open.spotify.com/track/0ER1C4NNpYN74V5DBJYbCk
+2024-10-26 17:34:34,406 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:34,987 - INFO - 成功连接到 https://open.spotify.com/track/4ZzFK0pr3KZpOwhvL9WwA9
+2024-10-26 17:34:34,997 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:35,496 - INFO - 成功连接到 https://open.spotify.com/track/066UCJD5BQgyLwXUSSwpwx
+2024-10-26 17:34:35,513 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:36,076 - INFO - 成功连接到 https://open.spotify.com/track/4mecU6ipRDLZ0yPHZ3diIJ
+2024-10-26 17:34:36,089 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:36,676 - INFO - 成功连接到 https://open.spotify.com/track/1roKztdmfwtOyAirTuPAKb
+2024-10-26 17:34:36,698 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:37,315 - INFO - 成功连接到 https://open.spotify.com/album/1TN7aPDawSKY2yJgGRuBtD
+2024-10-26 17:34:37,320 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:34:37,774 - INFO - 成功连接到 https://open.spotify.com/track/6P7sJi31snwSH3kVhmUkVA
+2024-10-26 17:34:37,783 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:38,513 - INFO - 成功连接到 https://open.spotify.com/track/6C2NuRZSi7alWgebmShcyS
+2024-10-26 17:34:38,524 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:39,296 - INFO - 成功连接到 https://open.spotify.com/track/0WHCY1T9WXAraip40R2xln
+2024-10-26 17:34:39,304 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:39,752 - INFO - 成功连接到 https://open.spotify.com/track/2oo20Tx2ZDQtaZBbpPrQ7c
+2024-10-26 17:34:39,761 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:40,420 - INFO - 成功连接到 https://open.spotify.com/track/2Cb4Ven2upifJhkXEDm3Iz
+2024-10-26 17:34:40,433 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:41,159 - INFO - 成功连接到 https://open.spotify.com/track/5uHzK9LG9vTWhV57vXirfk
+2024-10-26 17:34:41,170 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:41,727 - INFO - 成功连接到 https://open.spotify.com/track/5I5kZCq7tUKMe6eYl0YXDE
+2024-10-26 17:34:41,743 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:42,324 - INFO - 成功连接到 https://open.spotify.com/track/7HvzXicqldMU0f4RHuZ4ws
+2024-10-26 17:34:42,332 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:42,881 - INFO - 成功连接到 https://open.spotify.com/track/4US6XPEnTz49uptqK2nycS
+2024-10-26 17:34:42,889 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:43,416 - INFO - 成功连接到 https://open.spotify.com/track/7I8baGiuKUH2CWLQDz8W6G
+2024-10-26 17:34:43,425 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:43,916 - INFO - 成功连接到 https://open.spotify.com/track/3qq265EvBQQ9p1sXvNaJVy
+2024-10-26 17:34:43,925 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:44,398 - INFO - 成功连接到 https://open.spotify.com/track/7Bp0tzo5fxms14KIiJpkRE
+2024-10-26 17:34:44,407 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:44,886 - INFO - 成功连接到 https://open.spotify.com/album/3tCHkC5zpLup3zWjUjiO28
+2024-10-26 17:34:44,890 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:34:45,353 - INFO - 成功连接到 https://open.spotify.com/track/3umilDFjmiALlgxQGRiviZ
+2024-10-26 17:34:45,359 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:45,861 - INFO - 成功连接到 https://open.spotify.com/track/07agRbJ2iJG2Knh0Ez4k0M
+2024-10-26 17:34:45,868 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:46,331 - INFO - 成功连接到 https://open.spotify.com/track/7JsUPum62lufEIOjLfP7zG
+2024-10-26 17:34:46,340 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:46,815 - INFO - 成功连接到 https://open.spotify.com/track/4CTDCCwjtG1fIWoHw8oIvg
+2024-10-26 17:34:46,826 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:47,296 - INFO - 成功连接到 https://open.spotify.com/track/3UGrEYX9kzpvsKLVELlJb6
+2024-10-26 17:34:47,306 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:48,014 - INFO - 成功连接到 https://open.spotify.com/track/5N8YDMIOnnWhG1jt0GAJCL
+2024-10-26 17:34:48,023 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:48,497 - INFO - 成功连接到 https://open.spotify.com/track/7viUpmJBr8MsK5AKyUxtkc
+2024-10-26 17:34:48,507 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:48,933 - INFO - 成功连接到 https://open.spotify.com/track/0SUwBdHyMRtVaYHE5calAE
+2024-10-26 17:34:48,943 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:49,642 - INFO - 成功连接到 https://open.spotify.com/album/2afPHXn7m4KQECRsVn41us
+2024-10-26 17:34:49,654 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:34:50,160 - INFO - 成功连接到 https://open.spotify.com/track/0Ldf0glVYDFeEaefnPKckI
+2024-10-26 17:34:50,173 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:50,698 - INFO - 成功连接到 https://open.spotify.com/artist/6TwanpBr3fIrx6ITQM9kc0
+2024-10-26 17:34:50,703 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:51,273 - INFO - 成功连接到 https://open.spotify.com/track/5DOG5MkEV7QnsShwXfxVEu
+2024-10-26 17:34:51,284 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:51,863 - INFO - 成功连接到 https://open.spotify.com/track/2DILy7G8BiiwiJu4cqRDda
+2024-10-26 17:34:51,873 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:52,350 - INFO - 成功连接到 https://open.spotify.com/artist/2iJUPCerX1OiPRuQXsStZH
+2024-10-26 17:34:52,355 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:53,010 - INFO - 成功连接到 https://open.spotify.com/artist/33EHcp85dj8cJafZfUuyRp
+2024-10-26 17:34:53,015 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:53,476 - INFO - 成功连接到 https://open.spotify.com/artist/0GNWof60qa97vt18hClLo9
+2024-10-26 17:34:53,485 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:54,010 - INFO - 成功连接到 https://open.spotify.com/track/6yePVk8hubMMd5sRwP3gKc
+2024-10-26 17:34:54,021 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:54,541 - INFO - 成功连接到 https://open.spotify.com/track/1BYlbtC8TlfJfLScTf8JLN
+2024-10-26 17:34:54,561 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:55,105 - INFO - 成功连接到 https://open.spotify.com/track/2HZ0BKg3aVS9LB3DYh9sF8
+2024-10-26 17:34:55,117 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:55,886 - INFO - 成功连接到 https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+2024-10-26 17:34:55,892 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:56,432 - INFO - 成功连接到 https://open.spotify.com/track/0yBZtmziq7RiQtjZW1OsAy
+2024-10-26 17:34:56,455 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:56,974 - INFO - 成功连接到 https://open.spotify.com/track/4seqtMKDbNvZkq2ipbLwiq
+2024-10-26 17:34:56,986 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:57,687 - INFO - 成功连接到 https://open.spotify.com/track/1hO1C2vSrFN4X52RPTE1mc
+2024-10-26 17:34:57,702 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:58,187 - INFO - 成功连接到 https://open.spotify.com/artist/0i4bFHLV0UrLB8jKPyPz1k
+2024-10-26 17:34:58,194 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:58,766 - INFO - 成功连接到 https://open.spotify.com/artist/3LyN3dzJjv35T1XcDysnZG
+2024-10-26 17:34:58,774 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:59,335 - INFO - 成功连接到 https://open.spotify.com/track/6xvlIuM1Ai8dzRGcNhhtdH
+2024-10-26 17:34:59,347 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:34:59,851 - INFO - 成功连接到 https://open.spotify.com/artist/3l0gUA3QOg7ZehOD9Yc60e
+2024-10-26 17:34:59,854 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:00,446 - INFO - 成功连接到 https://open.spotify.com/track/3oNgrVhwvQFOBNdfpsi239
+2024-10-26 17:35:00,457 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:00,964 - INFO - 成功连接到 https://open.spotify.com/track/73WgNZMuTf0Qed00iRsGlT
+2024-10-26 17:35:00,980 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:01,579 - INFO - 成功连接到 https://open.spotify.com/track/3QpXt5T0iBur4jIGpAUKSG
+2024-10-26 17:35:01,591 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:02,102 - INFO - 成功连接到 https://open.spotify.com/track/2X3uBpLILQT4IGDn39xOir
+2024-10-26 17:35:02,114 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:02,782 - INFO - 成功连接到 https://open.spotify.com/track/2DSoMllfd2yAbZ92yMkHwX
+2024-10-26 17:35:02,792 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:03,586 - INFO - 成功连接到 https://open.spotify.com/track/0dPu1ryKgufwvl59UNUyMY
+2024-10-26 17:35:03,597 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:04,181 - INFO - 成功连接到 https://open.spotify.com/track/0QyNU7c2IgpVuQe5gzSMG6
+2024-10-26 17:35:04,190 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:04,676 - INFO - 成功连接到 https://open.spotify.com/artist/7JvM8fgDdxtaX5HIWs5loP
+2024-10-26 17:35:04,682 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:05,188 - INFO - 成功连接到 https://open.spotify.com/track/26lPhZBXdzscAMATNq6q5N
+2024-10-26 17:35:05,199 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:05,689 - INFO - 成功连接到 https://open.spotify.com/track/4PVXQa9oPuAA3rBFRLNtcT
+2024-10-26 17:35:05,700 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:06,249 - INFO - 成功连接到 https://open.spotify.com/track/0gysaGf8Nf17kX7aTah5jJ
+2024-10-26 17:35:06,260 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:06,787 - INFO - 成功连接到 https://open.spotify.com/track/1Wh3IDP7wGPdW8FItytKXo
+2024-10-26 17:35:06,797 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:07,474 - INFO - 成功连接到 https://open.spotify.com/track/4UBCUJxnnyyRM4yg6c1Hhw
+2024-10-26 17:35:07,497 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:08,080 - INFO - 成功连接到 https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS
+2024-10-26 17:35:08,087 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:08,640 - INFO - 成功连接到 https://open.spotify.com/track/2HIi9oYMjkNiq3g5TVpWb5
+2024-10-26 17:35:08,651 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:09,170 - INFO - 成功连接到 https://open.spotify.com/track/024bzGeGgg0GVAI3aNuP6y
+2024-10-26 17:35:09,180 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:09,793 - INFO - 成功连接到 https://open.spotify.com/track/3ccN2amTdq63b39Pgy9SmF
+2024-10-26 17:35:09,805 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:10,446 - INFO - 成功连接到 https://open.spotify.com/track/3f3MlMMOzDw3K5eYauqeJ9
+2024-10-26 17:35:10,466 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:10,967 - INFO - 成功连接到 https://open.spotify.com/track/2LVe9AKKLT5COY0FlbzkvL
+2024-10-26 17:35:10,977 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:11,530 - INFO - 成功连接到 https://open.spotify.com/track/00aEpfstVgnRx6JWBUh94e
+2024-10-26 17:35:11,549 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:12,034 - INFO - 成功连接到 https://open.spotify.com/track/0PtHyKcuQwIajq5UqwtK2q
+2024-10-26 17:35:12,044 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:12,528 - INFO - 成功连接到 https://open.spotify.com/track/7dDwIdqm7uB1zXYYjTspqS
+2024-10-26 17:35:12,540 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:12,977 - INFO - 成功连接到 https://open.spotify.com/album/5Ld4kLIL16CwUAx7IbxtIQ
+2024-10-26 17:35:12,994 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:35:13,507 - INFO - 成功连接到 https://open.spotify.com/track/5TvsCSRY1Ypb0nBHEcFdKb
+2024-10-26 17:35:13,519 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:14,015 - INFO - 成功连接到 https://open.spotify.com/track/279ziQeye38BTC66DhdfRR
+2024-10-26 17:35:14,023 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:14,561 - INFO - 成功连接到 https://open.spotify.com/track/1WNYXfGV8WUiWFYLROLiIO
+2024-10-26 17:35:14,569 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:15,349 - INFO - 成功连接到 https://open.spotify.com/track/6rxFv4beemsfImD8bxoY4E
+2024-10-26 17:35:15,359 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:15,996 - INFO - 成功连接到 https://open.spotify.com/track/3xq7azfdQ3ESaxBDnioxmS
+2024-10-26 17:35:16,005 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:16,508 - INFO - 成功连接到 https://open.spotify.com/track/6Pe3o75bGYcobbM0tHnsvb
+2024-10-26 17:35:16,524 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:17,015 - INFO - 成功连接到 https://open.spotify.com/track/28lOWzm8iKLX48FhI5EYv5
+2024-10-26 17:35:17,025 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:17,485 - INFO - 成功连接到 https://open.spotify.com/track/1CD4pyoVQXo9JzNwJ2RNi9
+2024-10-26 17:35:17,499 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:18,101 - INFO - 成功连接到 https://open.spotify.com/track/1F9zN0LPMDbEJmCEhxKR6A
+2024-10-26 17:35:18,111 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:18,633 - INFO - 成功连接到 https://open.spotify.com/track/2PMO9wtlM3O4HXGmkIXFEs
+2024-10-26 17:35:18,641 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:19,131 - INFO - 成功连接到 https://open.spotify.com/track/5z6xs7lP7mEwIpUA4Oe9Cn
+2024-10-26 17:35:19,143 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:19,731 - INFO - 成功连接到 https://open.spotify.com/track/3Dg6HEVssyIMvWohvgMC8Y
+2024-10-26 17:35:19,743 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:20,144 - INFO - 成功连接到 https://open.spotify.com/album/4rg2QiBWFYBzKtdcJeHnP7
+2024-10-26 17:35:20,146 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:35:20,677 - INFO - 成功连接到 https://open.spotify.com/track/6IHerlmqWsMK5pfEGMBnAY
+2024-10-26 17:35:20,685 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:21,071 - INFO - 成功连接到 https://open.spotify.com/album/2EOpsuHcbJDmDZkhxis0Dr
+2024-10-26 17:35:21,077 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:35:21,550 - INFO - 成功连接到 https://open.spotify.com/track/1yUT6anzygu51cCaSjik6m
+2024-10-26 17:35:21,558 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:21,997 - INFO - 成功连接到 https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp
+2024-10-26 17:35:22,000 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:35:22,632 - INFO - 成功连接到 https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo
+2024-10-26 17:35:22,639 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:22,982 - INFO - 成功连接到 https://open.spotify.com/album/3CCBF9PB51KjJyiqCSsKyR
+2024-10-26 17:35:22,985 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:35:23,678 - INFO - 成功连接到 https://open.spotify.com/track/3BjG7XXBYifXROvtaRg7tw
+2024-10-26 17:35:23,691 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv
+2024-10-26 17:35:24,099 - INFO - 成功连接到 https://open.spotify.com/album/6QxYLlLu4gVBeNs1wZoKoZ
+2024-10-26 17:35:24,102 - INFO - 深度 2 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_2_results.csv
+2024-10-26 17:35:24,577 - INFO - 成功连接到 https://open.spotify.com/track/0qgZJeru7Sw3wRBOGV6H89
+2024-10-26 17:35:24,587 - INFO - 深度 3 的结果已保存到 /home/yangjiahao/Desktop/Nazi/reconnaissance/web_scraping/../../reporting/depth_3_results.csv

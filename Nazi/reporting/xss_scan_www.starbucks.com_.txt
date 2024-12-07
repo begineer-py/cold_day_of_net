@@ -1,0 +1,50 @@
+https://www.starbucks.com/menu/food/hot-breakfast/bacon-and-gouda-artisan-breakfast-sandwich?foodZone= WAF or firewall error detected
+https://www.starbucks.com/menu/food/hot-breakfast/bacon-and-gouda-artisan-breakfast-sandwich?foodZone= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/happy-chinese-new-year-of-the-rabbit-/3.3.1?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/happy-chinese-new-year-of-the-rabbit-/3.3.1?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/what-your-bagel-says-about-your-mood/starbucks.com?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/what-your-bagel-says-about-your-mood/starbucks.com?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/pick-of-the-week-goes-digital/starbucks.com?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/pick-of-the-week-goes-digital/starbucks.com?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/coffeehouse/starbucks-stores/starbucks-evenings?utm_term=&gclid=&cm_mmc=&utm_campaign=&utm_medium=&utm_source= WAF or firewall error detected
+http://www.starbucks.com/coffeehouse/starbucks-stores/starbucks-evenings?utm_term=&gclid=&cm_mmc=&utm_campaign=&utm_medium=&utm_source= may have been blocked by WAF firewall
+http://www.starbucks.com/menu/catalog/product.ajax?view_control=&drinks_clear=&undefined=&_= WAF or firewall error detected
+http://www.starbucks.com/menu/catalog/product.ajax?view_control=&drinks_clear=&undefined=&_= may have been blocked by WAF firewall
+http://www.starbucks.com/coffee/espresso.asp?nav= WAF or firewall error detected
+http://www.starbucks.com/coffee/espresso.asp?nav= may have been blocked by WAF firewall
+https://www.starbucks.com/shop/card/egift/?siteID= WAF or firewall error detected
+https://www.starbucks.com/shop/card/egift/?siteID= may have been blocked by WAF firewall
+http://www.starbucks.com/shop/coffee_edu12.asp?catalog_name=&category_name=&cookie_test= WAF or firewall error detected
+http://www.starbucks.com/shop/coffee_edu12.asp?catalog_name=&category_name=&cookie_test= may have been blocked by WAF firewall
+https://www.starbucks.com/shop/card/starbucks-card/happy-birthday/standard?width=&height=&ajax= WAF or firewall error detected
+https://www.starbucks.com/shop/card/starbucks-card/happy-birthday/standard?width=&height=&ajax= may have been blocked by WAF firewall
+http://www.starbucks.com/menu/food/bistro-boxes/southwest-style-steak-wrap?foodZone= WAF or firewall error detected
+http://www.starbucks.com/menu/food/bistro-boxes/southwest-style-steak-wrap?foodZone= may have been blocked by WAF firewall
+http://www.starbucks.com/menu/drinks/tea/berry-sangria-herbal-tea?foodZone=&utm_source=&utm_medium=&utm_content=&utm_campaign= WAF or firewall error detected
+http://www.starbucks.com/menu/drinks/tea/berry-sangria-herbal-tea?foodZone=&utm_source=&utm_medium=&utm_content=&utm_campaign= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/goin-back-to-speakeasy-times/account.username?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/goin-back-to-speakeasy-times/account.username?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/promo/target-msr?intc=&force-full-site= WAF or firewall error detected
+http://www.starbucks.com/promo/target-msr?intc=&force-full-site= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/how-do-you-customize-your-frappuccino174-blended-beverage/1031?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/how-do-you-customize-your-frappuccino174-blended-beverage/1031?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/sir-paul-the-crooner/1162?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/sir-paul-the-crooner/1162?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/itsfallwhen?gclid= WAF or firewall error detected
+http://www.starbucks.com/itsfallwhen?gclid= may have been blocked by WAF firewall
+http://www.starbucks.com/via/occasion/recipes/page/12/popular/story/photo/video?pagination_start_page= WAF or firewall error detected
+http://www.starbucks.com/via/occasion/recipes/page/12/popular/story/photo/video?pagination_start_page= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/1086?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/1086?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/retail/locator/PrxDriveResults.aspx?a=&IC_O=&IC_D=&GAD2_O=&GAD3_O=&GAD1_D=&GAD2_D=&GAD3_D=&dataSource=&AddressLine2=&isMM= WAF or firewall error detected
+http://www.starbucks.com/retail/locator/PrxDriveResults.aspx?a=&IC_O=&IC_D=&GAD2_O=&GAD3_O=&GAD1_D=&GAD2_D=&GAD3_D=&dataSource=&AddressLine2=&isMM= may have been blocked by WAF firewall
+https://www.starbucks.com/menu/product/2122725/iced?parent= WAF or firewall error detected
+https://www.starbucks.com/menu/product/2122725/iced?parent= may have been blocked by WAF firewall
+https://www.starbucks.com/account/forgot-username?ReturnUrl=&AllowGuest= WAF or firewall error detected
+https://www.starbucks.com/account/forgot-username?ReturnUrl=&AllowGuest= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/imagine-the-possibilities/1087?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/imagine-the-possibilities/1087?reply= may have been blocked by WAF firewall
+http://www.starbucks.com/menu/drinks/espresso/peppermint-mocha?utm_source=&utm_medium=&utm_campaign= WAF or firewall error detected
+http://www.starbucks.com/menu/drinks/espresso/peppermint-mocha?utm_source=&utm_medium=&utm_campaign= may have been blocked by WAF firewall
+http://www.starbucks.com/blog/k-d-lang-lowercase-name-uppercase-talent/starbucks.com?reply= WAF or firewall error detected
+http://www.starbucks.com/blog/k-d-lang-lowercase-name-uppercase-talent/starbucks.com?reply= may have been blocked by WAF firewall

@@ -1,0 +1,78 @@
+2024-10-26 22:07:51,979 - INFO - 數據庫和表已創建！
+2024-10-26 22:07:51,981 - INFO - 鏈接已存在: example.com
+2024-10-26 22:07:51,982 - INFO - 鏈接已存在: example.org
+2024-10-26 22:07:51,988 - INFO - 所有重複的非 '.com' 鏈接已刪除！
+2024-10-26 22:07:51,988 - INFO - 查詢所有 '.com' 鏈接完成
+2024-10-26 22:07:51,989 - INFO - 查詢所有非 '.com' 鏈接完成
+2024-10-26 22:08:38,140 - INFO - 數據庫和表已創建！
+2024-10-26 22:08:38,142 - INFO - 鏈接已存在: example.com
+2024-10-26 22:08:38,143 - INFO - 鏈接已存在: example.org
+2024-10-26 22:08:38,145 - INFO - 所有重複的 '.com' 鏈接已刪除！
+2024-10-26 22:08:38,145 - INFO - 所有重複的非 '.com' 鏈接已刪除！
+2024-10-26 22:08:38,146 - INFO - 查詢所有 '.com' 鏈接完成
+2024-10-26 22:08:38,146 - INFO - 查詢所有非 '.com' 鏈接完成
+2024-10-26 23:24:49,080 - INFO - 數據庫和表已創建！
+2024-10-26 23:24:49,082 - WARNING - 鏈接已存在: example.com
+2024-10-26 23:24:49,083 - WARNING - 鏈接已存在: example.org
+2024-10-26 23:24:49,084 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-26 23:24:49,085 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-26 23:24:49,085 - INFO - 查詢所有 '.com' 鏈接完成
+2024-10-26 23:24:49,086 - INFO - 查詢所有非 '.com' 鏈接完成
+2024-10-26 23:29:09,459 - INFO - 查詢所有 '.com' 鏈接完成
+2024-10-26 23:43:29,478 - INFO - 查詢所有非 '.com' 鏈接完成
+2024-10-27 13:54:35,078 - INFO - 數據庫和表已創建！
+2024-10-27 13:54:35,080 - WARNING - 鏈接已存在: example.com
+2024-10-27 13:54:35,081 - WARNING - 鏈接已存在: example.org
+2024-10-27 13:54:35,082 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 13:54:35,083 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 13:54:35,083 - INFO - 查詢所有 '.com' 鏈接完成
+2024-10-27 13:54:35,084 - INFO - 查詢所有非 '.com' 鏈接完成
+2024-10-27 16:01:48,806 - INFO - 數據庫和表已創建！
+2024-10-27 16:01:48,809 - WARNING - 鏈接已存在: example.com
+2024-10-27 16:01:48,810 - WARNING - 鏈接已存在: example.org
+2024-10-27 16:01:48,811 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:01:48,812 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:00,926 - INFO - 數據庫和表已創建！
+2024-10-27 16:03:00,928 - WARNING - 鏈接已存在: example.com
+2024-10-27 16:03:00,929 - WARNING - 鏈接已存在: example.org
+2024-10-27 16:03:00,930 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:00,931 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:00,932 - INFO - 查詢所有<class '__main__.LinksCom'> 鏈接完成
+2024-10-27 16:03:00,933 - INFO - 查詢所有<class '__main__.LinksNotCom'> 鏈接完成
+2024-10-27 16:03:31,502 - INFO - 數據庫和表已創建！
+2024-10-27 16:03:31,504 - WARNING - 鏈接已存在: example.com
+2024-10-27 16:03:31,505 - WARNING - 鏈接已存在: example.org
+2024-10-27 16:03:31,506 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:31,507 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:31,508 - INFO - 查詢所有<class '__main__.LinksCom'> 鏈接完成
+2024-10-27 16:03:31,508 - INFO - 查詢所有<class '__main__.LinksNotCom'> 鏈接完成
+2024-10-27 16:03:53,305 - INFO - 數據庫和表已創建！
+2024-10-27 16:03:53,308 - WARNING - 鏈接已存在: example.com
+2024-10-27 16:03:53,309 - WARNING - 鏈接已存在: example.org
+2024-10-27 16:03:53,310 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:53,311 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:03:53,312 - INFO - 查詢所有<class '__main__.LinksCom'> 鏈接完成
+2024-10-27 16:03:53,312 - INFO - 查詢所有<class '__main__.LinksNotCom'> 鏈接完成
+2024-10-27 16:10:01,622 - INFO - 數據庫和表已創建！
+2024-10-27 16:10:01,624 - WARNING - 鏈接已存在: example.com
+2024-10-27 16:10:01,625 - WARNING - 鏈接已存在: example.org
+2024-10-27 16:10:01,626 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:10:01,627 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:10:01,627 - INFO - 查詢所有LinksCom 鏈接完成
+2024-10-27 16:10:01,628 - INFO - 查詢所有LinksNotCom 鏈接完成
+2024-10-27 16:21:52,144 - INFO - 數據庫和表已創建！
+2024-10-27 16:21:52,146 - WARNING - 鏈接已存在: example.com
+2024-10-27 16:21:52,147 - WARNING - 鏈接已存在: example.org
+2024-10-27 16:21:52,149 - ERROR - 刪除 LinksCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:21:52,150 - ERROR - 刪除 LinksNotCom 表中的重複鏈接 時出錯: scoped_session.delete() missing 1 required positional argument: 'instance'
+2024-10-27 16:21:52,150 - INFO - 查詢所有LinksCom 鏈接完成
+2024-10-27 16:21:52,152 - INFO - 查詢所有LinksNotCom 鏈接完成
+2024-10-30 19:03:35,840 - INFO - 數據庫和表已創建！
+2024-10-30 19:03:35,842 - WARNING - 鏈接已存在: example.com
+2024-10-30 19:03:35,843 - WARNING - 鏈接已存在: example.org
+2024-10-30 19:03:35,844 - INFO - LinksCom 中所有重複鏈接已刪除！
+2024-10-30 19:03:35,845 - INFO - LinksNotCom 中所有重複鏈接已刪除！
+2024-10-30 19:03:35,845 - INFO - 查詢所有LinksCom 鏈接完成
+2024-10-30 19:03:35,845 - INFO - [<LinksCom 'example.com'>, <LinksCom 'open.spotify.com'>]
+2024-10-30 19:03:35,846 - INFO - 查詢所有LinksNotCom 鏈接完成
+2024-10-30 19:03:35,846 - INFO - [<LinksNotCom 'example.org'>]
